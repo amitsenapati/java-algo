@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../gaia/tech-primer-gaia-mariadb.develop/initial/gaia-mariadb-example.iml" filepath="$PROJECT_DIR$/../../gaia/tech-primer-gaia-mariadb.develop/initial/gaia-mariadb-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-algo.iml" filepath="$PROJECT_DIR$/java-algo.iml" />
+    </modules>
+  </component>
+</project>
