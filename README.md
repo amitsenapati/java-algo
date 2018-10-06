@@ -2,4 +2,9 @@
 Algorithms practice using Java
 
 
-### 1. sub arrays of an array
+### Invert Binary Tree
+### Longest Palindrome sub sequence
+### Find duplicate file names from list of given files
+### Binary Search
+### Linked List addition of numbers
+### sub arrays of an array

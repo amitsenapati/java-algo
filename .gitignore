@@ -2,4 +2,4 @@
 /out/
 /.idea/
 /.settings/
-java-algo.iml
+*.iml
